@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+img,video,iframe{
+    max-width: 30%;
+    height: auto;
+}
+
+h1{
+    color:blue;
+}
+
+
+h2{
+    color:orangered;
+}
